@@ -1,0 +1,92 @@
+[
+    {
+        "ip": "181.49.50.6",
+        "result": {
+            "data": {
+                "ipAddress": "181.49.50.6",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 100,
+                "countryCode": "CO",
+                "usageType": "Mobile ISP",
+                "isp": "Telmex Colombia S.A.",
+                "domain": "telmexla.net.co",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 3961,
+                "numDistinctUsers": 822,
+                "lastReportedAt": "2025-03-28T17:43:16+00:00"
+            }
+        },
+        "date_time": "2025-03-28 17:48"
+    },
+    {
+        "ip": "103.10.27.8",
+        "result": {
+            "data": {
+                "ipAddress": "103.10.27.8",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "IN",
+                "usageType": "University/College/School",
+                "isp": "Amrita Vishwa Vidyapeetham",
+                "domain": "amrita.edu",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        },
+        "date_time": "2025-03-28 17:44"
+    },
+    {
+        "ip": "103.10.27.8",
+        "result": {
+            "data": {
+                "ipAddress": "103.10.27.8",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": null,
+                "abuseConfidenceScore": 0,
+                "countryCode": "IN",
+                "usageType": "University/College/School",
+                "isp": "Amrita Vishwa Vidyapeetham",
+                "domain": "amrita.edu",
+                "hostnames": [],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": null
+            }
+        },
+        "date_time": "2025-03-28 17:44"
+    },
+    {
+        "ip": "142.250.182.46",
+        "result": {
+            "data": {
+                "ipAddress": "142.250.182.46",
+                "isPublic": true,
+                "ipVersion": 4,
+                "isWhitelisted": false,
+                "abuseConfidenceScore": 0,
+                "countryCode": "IN",
+                "usageType": "Data Center/Web Hosting/Transit",
+                "isp": "Google LLC",
+                "domain": "google.com",
+                "hostnames": [
+                    "maa05s19-in-f14.1e100.net"
+                ],
+                "isTor": false,
+                "totalReports": 0,
+                "numDistinctUsers": 0,
+                "lastReportedAt": "2024-09-23T12:30:08+00:00"
+            }
+        },
+        "date_time": "2025-03-28 17:38"
+    }
+]
